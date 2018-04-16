@@ -1,0 +1,12 @@
+@font-face {
+  font-weight: 600;
+  font-style: normal;
+  font-family: 'hanyishu';
+  src: url('./hanyishu.ttf') format('truetype');
+}
+
+.hello {
+  color: red;
+  font-family: 'hanyishu';
+  background: url('./icon.png');
+}
